@@ -1,0 +1,29 @@
+{
+  "name": "ed-cdt",
+  "version": "1.0.0",
+  "description": "📝 Un module Node.js permettant de communiquer facilement à l'API Cahier de textes d'EcoleDirecte",
+  "main": "index.js",
+  "type": "module",
+  "author": "CloneDirecte Team <contact@clonedirecte.cf>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "ecoledirecte",
+    "nodejs",
+    "clonedirecte",
+    "cahier-de-textes"
+  ],
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloneDirecte/ed-cdt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CloneDirecte/ed-cdt/issues"
+  },
+  "homepage": "https://github.com/CloneDirecte/ed-cdt"
+}
